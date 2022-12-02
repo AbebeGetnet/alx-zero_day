@@ -1,1 +1,1 @@
-This is the updated Repo-session readme
+My first readme in 0x03-git.
